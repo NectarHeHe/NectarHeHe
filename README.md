@@ -4,7 +4,7 @@
 Очень люблю свою сферу, развиваться, углубляться в неё.\
 В данный момент открыт к предложениям работы/стажировки.
 ### Стек:
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 ### Резюме:
 [![Static Badge](https://img.shields.io/badge/HexletCV-20B2AA)](https://cv.hexlet.io/ru/resumes/3265)
 ### Контакты:
