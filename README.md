@@ -1,10 +1,10 @@
 ![A](https://github.com/NectarHeHe/NectarHeHe/blob/main/header.png)
 ### О себе:
-Начинающий аналитик данных. В данный момент начал последний учебный проект, учусь в онлайн школе "Hexlet".\
-Очень люблю свою сферу, развиваться, углубляться в неё.\
+Начинающий аналитик данных. Продолжаю свое обучение в онлайн школе "Hexlet".\
+\
 В данный момент открыт к предложениям работы/стажировки.
 ### Стек:
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" title = 'js' width = 40 height = 40 />&nbsp;
 ### Резюме:
 [![Static Badge](https://img.shields.io/badge/HexletCV-20B2AA)](https://cv.hexlet.io/ru/resumes/3265)
 ### Контакты:
