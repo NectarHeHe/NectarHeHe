@@ -1,10 +1,10 @@
 ![A](https://github.com/NectarHeHe/NectarHeHe/blob/main/header.png)
 ### О себе:
 Начинающий аналитик данных, продолжаю свое обучение в онлайн школе "Hexlet".\
-Люблю свою деятельность и буду продолжать развиваться в области аналитики ![a](https://emojigraph.org/flexed-biceps/)\
+Люблю свою деятельность и буду продолжать развиваться в области аналитики\
 В данный момент открыт к предложениям работы/стажировки.
 ### Стек:
- 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 ### Резюме:
 [![Static Badge](https://img.shields.io/badge/HexletCV-20B2AA)](https://cv.hexlet.io/ru/resumes/3265)
 ### Контакты:
