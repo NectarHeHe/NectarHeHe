@@ -4,7 +4,7 @@
 Люблю свою деятельность и буду продолжать развиваться в области аналитики\
 В данный момент открыт к предложениям работы/стажировки.
 ### Стек:
-![Static Badge](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+![Static Badge](<"img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="200" height="200">)
 ### Резюме:
 [![Static Badge](https://img.shields.io/badge/HexletCV-20B2AA)](https://cv.hexlet.io/ru/resumes/3265)
 ### Контакты:
