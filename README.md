@@ -1,6 +1,8 @@
 # Всем привет! Меня зовут Никита
 #### Начинающий дата-аналитик из Санкт-Петербурга
 [![Static Badge](https://img.shields.io/badge/telegram-20B2AA)](https://t.me/nectarrrr)
+[![Static Badge](https://img.shields.io/badge/HexletCV-20B2AA)](https://cv.hexlet.io/ru/resumes/3265)
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NectarHeHe&theme=aura)
