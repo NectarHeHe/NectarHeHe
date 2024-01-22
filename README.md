@@ -4,7 +4,7 @@
 \
 В данный момент открыт к предложениям работы/стажировки.
 ### Стек:
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" title = 'js' width = 40 height = 40 />&nbsp;
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" title = 'js' width = 40 height = 40 />&nbsp; 
 ### Резюме:
 [![Static Badge](https://img.shields.io/badge/HexletCV-20B2AA)](https://cv.hexlet.io/ru/resumes/3265)
 ### Контакты:
