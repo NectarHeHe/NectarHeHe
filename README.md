@@ -12,8 +12,7 @@
 [![Static Badge](https://img.shields.io/badge/HexletCV-20B2AA)](https://cv.hexlet.io/ru/resumes/3265)
 ### Контакты:
 [![Static Badge](https://img.shields.io/badge/telegram-20B2AA)](https://t.me/nectarrrr)
-### Почта:
-necorectno@mail.ru
+mail: necorectno1@gmail.com
 
 
 
