@@ -1,6 +1,6 @@
 # Всем привет! Меня зовут Никита
 #### Начинающий дата-аналитик из Санкт-Петербурга
-![https://t.me/nectarrrr](https://img.shields.io/badge/telegram-8A2BE2)
+![.](https://t.me/nectarrrr)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NectarHeHe&theme=aura)
 <!--
 **NectarHeHe/NectarHeHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
