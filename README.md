@@ -1,5 +1,5 @@
-### Всем привет! Меня зовут Никита
-# Начинающий дата-аналитик из Санкт-Петербурга
+# Всем привет! Меня зовут Никита
+### Начинающий дата-аналитик из Санкт-Петербурга
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NectarHeHe&theme=aura)
 <!--
